@@ -1,3 +1,10 @@
+# THIS REPO WAS PORTED TO [keras-gym](https://github.com/KristianHolsheimer/keras-gym).
+
+All future maintenance will be done in [keras-gym](https://github.com/KristianHolsheimer/keras-gym). If you do want to use scikit-learn instead of keras function approximators, you can simply use the [sklearn compatibility wrapper](https://keras-gym.readthedocs.io/en/latest/wrappers/index.html).
+
+-Kris
+
+
 # scikit-gym
 *Plug-n-Play Reinforcement Learning in Python*
 
